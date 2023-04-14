@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    margin-top: 100px;
+    border: 3px solid goldenrod;
+    padding: 50px;
+    background-color: azure;
+    
+}
+
+.scanner {
+    width: 500px;
+    height: 340px;
+    
+}
+
+video {
+    width: 500px;
+    height: 350px;
+    
+}
+
+.content h2 {
+    font-size: 1.5em;
+
+}
+
+.code {
+    margin-top: 30px;
+}
